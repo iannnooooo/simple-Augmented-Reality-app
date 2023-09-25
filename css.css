@@ -1,0 +1,36 @@
+
+
+body 
+{
+	background-color: rgb(88, 152, 236);
+    border: color rgb<line-width>, blue, alpha);
+
+.background{
+        /* top, transparent black, faked with gradient */ 
+        linear-gradient(
+          rgba(0, 0, 0, 0.7), 
+          rgba(0, 0, 0, 0.7)
+        ),
+        /* bottom, image */
+        
+    }
+.button {     
+    background-color: padding: 5;"" overscroll-behavior-block"; {
+
+    }
+    background-repeat: no-repeat;
+    border::content "radialGradient";
+    cursor: "pointer";
+    overflow: "hidden";        
+}
+
+button {
+    border: rounded;
+    background-color: sp;
+}
+
+div#mybox {
+    position:absoluteleft;
+    background-color: black;
+    z-index: auto;
+}
